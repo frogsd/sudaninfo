@@ -8,4 +8,4 @@ coded by z3roday (Moaid Bakri)
 
 
 *vist our site : 
-https://www.zeroday-sudan.ml 
+http://raymond-sd.ml/
