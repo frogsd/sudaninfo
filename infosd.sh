@@ -17,7 +17,7 @@ echo "                                 |___/ ";
 _zenity="/usr/bin/zenity"
 _out="/tmp/whois.output.$$"
 domain=$(${_zenity} --title  "Enter domain" \
-	            --entry --text "Enter the domain you would like to see whois info by z3roday-sudan" )
+	            --entry --text "Enter the domain you would like to see whois info by frogsec" )
  
 if [ $? -eq 0 ]
 then
